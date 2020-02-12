@@ -8,33 +8,32 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Chirpy                          # the main title
+title: 문돌이 CS파헤치기                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: studing Cmputer Science  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.
-
+  easy and easy
 # Replace with your domain, e.g. 'https://username.github.io'
-url: 'protocol://domain'
+url: 'https://younghyunDev.github.io'
 
-author: your_full_name                  # change to your full name
+author: younghyun Lee                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: github_username             # change to your github username
+  username: younghyunLee            # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username:             # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: younghyun Lee                 # it will shows as the copyright owner in Footer
+  email: dudgus1202@gmal.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    -      # change to your twitter homepage
+    - https://github.com/younghyunDev      # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -44,10 +43,10 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 #--------------------------
 
 # if your site type is Project Pages site, change below value to '/projectname'
-baseurl: ''
+baseurl: '/younghyunDev.github.io'
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Seoul
 
 google_analytics:
   # Fill with your Google Analytics ID
@@ -65,7 +64,7 @@ disqus:
   shortname: ''    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # The year your website first ran.
-first_run: 2019
+first_run: 2020
 
 # boolean type, global switch for ToC in posts.
 toc: true
